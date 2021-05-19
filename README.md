@@ -1,3 +1,3 @@
-# Web-design-Challenge
+# Web Design Challenge
 
-Link to active webpage through github.io: https://dwaehner27.github.io/windspeed.html
+### Link to active webpage [here](https://dwaehner27.github.io/windspeed.html) 
